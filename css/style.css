@@ -1,0 +1,120 @@
+body {
+    color: gold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    color: #0f371c !important;
+}
+
+.head-cont {
+    /* height: 700px; */
+    width: auto;
+    background-color: #0f371c;
+    color: #0f371c;
+}
+
+/* .bg-img{
+  height: 700px;
+  width: 100%;
+} */
+.jumbotron {
+  font-size: 24px;
+  /* height: 500px; */
+}
+.second-section {
+  margin-top: 0;
+}
+
+.third-section {
+    background-color: #0f371c;
+    padding-bottom: 4rem;
+}
+
+.second-wrapper {
+  color: gold;
+  text-align: center;
+  padding-top: 4rem;
+
+}
+
+.inner-second-wrapper {
+  padding-top: 2rem;
+  /* margin: auto 200px; */
+}
+.subtitle {
+    color: gold;
+    font-family: 'Abril Fatface', cursive;
+    background-color: #0f371c;
+}
+
+.blog-section {
+  padding-top: 2rem;
+  color: #0f371c;
+  /* padding-bottom: 0.25rem; */
+  /* margin-bottom: 2rem; */
+  background-color: #f7f9f9;
+}
+.blog-title {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.main-heading {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    padding-top: 3rem;
+}
+.mtitle1 {
+    font-size: 5rem;
+}
+.mtitle2 {
+    font-size: 3rem;
+}
+.mtitle3 {
+    font-size: 6rem;
+}
+.about-text {
+
+    color: #0f371c;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.event-date {
+  padding-top: 1.5rem;
+  padding-right: 20px;
+}
+
+.event-image {
+  padding-top: 1.5rem;
+  padding-right: 10px;
+}
+
+.event-description {
+  padding-top: 1.5rem;
+  padding-left: 120px;
+  text-align: justify;
+}
+.main-color {
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 900;
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+.white-section {
+  color: #8f8f8f;
+  text-align: center;
+}
