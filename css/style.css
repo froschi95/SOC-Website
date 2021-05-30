@@ -3,6 +3,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     /* background-color: #f8f4e1; */
 }
+.navbar {
+  background-color: white !important;
+}
 
 .nav-link {
     font-family: 'Montserrat', sans-serif;
